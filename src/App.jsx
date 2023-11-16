@@ -1,10 +1,10 @@
 import "./App.css";
-import Index from "./MainComponent";
+import Site from "./MainComponent/Site";
 
 function App() {
   return (
     <>
-      <Index />
+      <Site/>
     </>
   );
 }

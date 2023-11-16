@@ -5,7 +5,7 @@ import Header from "../Components/Header";
 import Hero from "../Components/Hero";
 import Service from "../Components/Service";
 
-const Index = () => {
+const Site = () => {
   return (
     <>
       <div className="w-full h-full bg-slate-600">
@@ -20,4 +20,4 @@ const Index = () => {
   );
 };
 
-export default Index;
+export default Site;
