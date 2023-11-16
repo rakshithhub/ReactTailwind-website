@@ -2,9 +2,11 @@ import "./App.css";
 import Index from "./MainComponent";
 
 function App() {
-  return <>
-    <Index/>
-  </>;
+  return (
+    <>
+      <Index />
+    </>
+  );
 }
 
 export default App;
